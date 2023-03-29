@@ -1,5 +1,5 @@
-# Inventory Overhaul for Doom & Doom II
-A small tactical gameplay enhancement add-on for Doom and Doom II.
+# Inventory Overhaul for Doom II
+A small tactical gameplay enhancement add-on for Doom II.
 
 What it adds:
   * Reload to all vanilla weapons.
